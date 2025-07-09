@@ -1,1 +1,1 @@
-# Credit-score-model
+This project aims to build a Credit Scoring Model using Logistic Regression to predict whether an individual is likely to default on a loan based on their financial and demographic attributes. The dataset includes variables such as income, savings, debt ratios, and categorical indicators like credit card ownership and mortgage status.# Credit-score-model
